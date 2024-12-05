@@ -1,0 +1,745 @@
+provincia,id_provincia,nombres_provincia,cadena,valor,id_cadena
+Ciudad Autónoma de Buenos Aires,2.0,CABA,ajo,0.0,1.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,algodón,0.0,2.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,arroz,0.0,3.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,avícola,0.0,4.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,berries,0.0,5.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,bovina,0.0,6.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,caña de azucar,0.0,7.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,caprino,0.0,8.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,cebada,0.0,9.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,cítricos,0.0,10.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,colza,0.0,11.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,forestal,0.0,12.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,láctea,1.0,13.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,limón,0.0,14.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,maíz,0.0,15.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,mani,0.0,16.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,miel,0.0,17.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,olivo,0.0,18.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,ovino,0.0,19.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,papa,0.0,20.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,peras y manzanas,0.0,21.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,porcino,0.0,22.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,soja,0.0,23.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,sorgo,0.0,24.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,tabaco,0.0,25.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,té,0.0,26.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,tomate,0.0,27.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,trigo,0.0,28.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,uva,0.0,29.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,yerba mate,0.0,30.0
+Ciudad Autónoma de Buenos Aires,2.0,CABA,girasol,0.0,31.0
+Neuquén,58.0,Neuquen,ajo,0.0,1.0
+Neuquén,58.0,Neuquen,algodón,0.0,2.0
+Neuquén,58.0,Neuquen,arroz,0.0,3.0
+Neuquén,58.0,Neuquen,avícola,1.0,4.0
+Neuquén,58.0,Neuquen,berries,0.0,5.0
+Neuquén,58.0,Neuquen,bovina,0.0,6.0
+Neuquén,58.0,Neuquen,caña de azucar,0.0,7.0
+Neuquén,58.0,Neuquen,caprino,17.0,8.0
+Neuquén,58.0,Neuquen,cebada,0.0,9.0
+Neuquén,58.0,Neuquen,cítricos,0.0,10.0
+Neuquén,58.0,Neuquen,colza,0.0,11.0
+Neuquén,58.0,Neuquen,forestal,0.0,12.0
+Neuquén,58.0,Neuquen,láctea,0.0,13.0
+Neuquén,58.0,Neuquen,limón,0.0,14.0
+Neuquén,58.0,Neuquen,maíz,0.0,15.0
+Neuquén,58.0,Neuquen,mani,0.0,16.0
+Neuquén,58.0,Neuquen,miel,0.0,17.0
+Neuquén,58.0,Neuquen,olivo,0.0,18.0
+Neuquén,58.0,Neuquen,ovino,1.0,19.0
+Neuquén,58.0,Neuquen,papa,0.0,20.0
+Neuquén,58.0,Neuquen,peras y manzanas,16.0,21.0
+Neuquén,58.0,Neuquen,porcino,0.0,22.0
+Neuquén,58.0,Neuquen,soja,1.0,23.0
+Neuquén,58.0,Neuquen,sorgo,0.0,24.0
+Neuquén,58.0,Neuquen,tabaco,0.0,25.0
+Neuquén,58.0,Neuquen,té,0.0,26.0
+Neuquén,58.0,Neuquen,tomate,0.0,27.0
+Neuquén,58.0,Neuquen,trigo,0.0,28.0
+Neuquén,58.0,Neuquen,uva,0.0,29.0
+Neuquén,58.0,Neuquen,yerba mate,0.0,30.0
+Neuquén,58.0,Neuquen,girasol,0.0,31.0
+San Luis,74.0,San Luis,ajo,0.0,1.0
+San Luis,74.0,San Luis,algodón,1.0,2.0
+San Luis,74.0,San Luis,arroz,0.0,3.0
+San Luis,74.0,San Luis,avícola,0.0,4.0
+San Luis,74.0,San Luis,berries,2.0,5.0
+San Luis,74.0,San Luis,bovina,2.0,6.0
+San Luis,74.0,San Luis,caña de azucar,0.0,7.0
+San Luis,74.0,San Luis,caprino,7.0,8.0
+San Luis,74.0,San Luis,cebada,0.0,9.0
+San Luis,74.0,San Luis,cítricos,0.0,10.0
+San Luis,74.0,San Luis,colza,0.0,11.0
+San Luis,74.0,San Luis,forestal,0.0,12.0
+San Luis,74.0,San Luis,láctea,0.0,13.0
+San Luis,74.0,San Luis,limón,0.0,14.0
+San Luis,74.0,San Luis,maíz,2.0,15.0
+San Luis,74.0,San Luis,mani,7.0,16.0
+San Luis,74.0,San Luis,miel,3.0,17.0
+San Luis,74.0,San Luis,olivo,0.0,18.0
+San Luis,74.0,San Luis,ovino,0.0,19.0
+San Luis,74.0,San Luis,papa,0.0,20.0
+San Luis,74.0,San Luis,peras y manzanas,0.0,21.0
+San Luis,74.0,San Luis,porcino,1.0,22.0
+San Luis,74.0,San Luis,soja,1.0,23.0
+San Luis,74.0,San Luis,sorgo,2.0,24.0
+San Luis,74.0,San Luis,tabaco,0.0,25.0
+San Luis,74.0,San Luis,té,0.0,26.0
+San Luis,74.0,San Luis,tomate,0.0,27.0
+San Luis,74.0,San Luis,trigo,0.0,28.0
+San Luis,74.0,San Luis,uva,0.0,29.0
+San Luis,74.0,San Luis,yerba mate,0.0,30.0
+San Luis,74.0,San Luis,girasol,1.0,31.0
+Santa Fe,82.0,Santa Fe,ajo,0.0,1.0
+Santa Fe,82.0,Santa Fe,algodón,10.0,2.0
+Santa Fe,82.0,Santa Fe,arroz,11.0,3.0
+Santa Fe,82.0,Santa Fe,avícola,7.0,4.0
+Santa Fe,82.0,Santa Fe,berries,7.0,5.0
+Santa Fe,82.0,Santa Fe,bovina,15.0,6.0
+Santa Fe,82.0,Santa Fe,caña de azucar,1.0,7.0
+Santa Fe,82.0,Santa Fe,caprino,0.0,8.0
+Santa Fe,82.0,Santa Fe,cebada,47.0,9.0
+Santa Fe,82.0,Santa Fe,cítricos,0.0,10.0
+Santa Fe,82.0,Santa Fe,colza,5.0,11.0
+Santa Fe,82.0,Santa Fe,forestal,8.0,12.0
+Santa Fe,82.0,Santa Fe,láctea,33.0,13.0
+Santa Fe,82.0,Santa Fe,limón,0.0,14.0
+Santa Fe,82.0,Santa Fe,maíz,12.0,15.0
+Santa Fe,82.0,Santa Fe,mani,0.0,16.0
+Santa Fe,82.0,Santa Fe,miel,14.0,17.0
+Santa Fe,82.0,Santa Fe,olivo,14.0,18.0
+Santa Fe,82.0,Santa Fe,ovino,1.0,19.0
+Santa Fe,82.0,Santa Fe,papa,1.0,20.0
+Santa Fe,82.0,Santa Fe,peras y manzanas,0.0,21.0
+Santa Fe,82.0,Santa Fe,porcino,24.0,22.0
+Santa Fe,82.0,Santa Fe,soja,29.0,23.0
+Santa Fe,82.0,Santa Fe,sorgo,16.0,24.0
+Santa Fe,82.0,Santa Fe,tabaco,0.0,25.0
+Santa Fe,82.0,Santa Fe,té,0.0,26.0
+Santa Fe,82.0,Santa Fe,tomate,0.0,27.0
+Santa Fe,82.0,Santa Fe,trigo,16.0,28.0
+Santa Fe,82.0,Santa Fe,uva,0.0,29.0
+Santa Fe,82.0,Santa Fe,yerba mate,0.0,30.0
+Santa Fe,82.0,Santa Fe,girasol,14.0,31.0
+Chubut,26.0,Chubut,ajo,0.0,1.0
+Chubut,26.0,Chubut,algodón,0.0,2.0
+Chubut,26.0,Chubut,arroz,0.0,3.0
+Chubut,26.0,Chubut,avícola,0.0,4.0
+Chubut,26.0,Chubut,berries,1.0,5.0
+Chubut,26.0,Chubut,bovina,0.0,6.0
+Chubut,26.0,Chubut,caña de azucar,0.0,7.0
+Chubut,26.0,Chubut,caprino,1.0,8.0
+Chubut,26.0,Chubut,cebada,0.0,9.0
+Chubut,26.0,Chubut,cítricos,0.0,10.0
+Chubut,26.0,Chubut,colza,0.0,11.0
+Chubut,26.0,Chubut,forestal,0.0,12.0
+Chubut,26.0,Chubut,láctea,0.0,13.0
+Chubut,26.0,Chubut,limón,0.0,14.0
+Chubut,26.0,Chubut,maíz,0.0,15.0
+Chubut,26.0,Chubut,mani,0.0,16.0
+Chubut,26.0,Chubut,miel,0.0,17.0
+Chubut,26.0,Chubut,olivo,0.0,18.0
+Chubut,26.0,Chubut,ovino,21.0,19.0
+Chubut,26.0,Chubut,papa,0.0,20.0
+Chubut,26.0,Chubut,peras y manzanas,0.0,21.0
+Chubut,26.0,Chubut,porcino,0.0,22.0
+Chubut,26.0,Chubut,soja,0.0,23.0
+Chubut,26.0,Chubut,sorgo,0.0,24.0
+Chubut,26.0,Chubut,tabaco,0.0,25.0
+Chubut,26.0,Chubut,té,0.0,26.0
+Chubut,26.0,Chubut,tomate,0.0,27.0
+Chubut,26.0,Chubut,trigo,0.0,28.0
+Chubut,26.0,Chubut,uva,0.0,29.0
+Chubut,26.0,Chubut,yerba mate,0.0,30.0
+Chubut,26.0,Chubut,girasol,0.0,31.0
+Mendoza,50.0,Mendoza,ajo,74.0,1.0
+Mendoza,50.0,Mendoza,algodón,0.0,2.0
+Mendoza,50.0,Mendoza,arroz,0.0,3.0
+Mendoza,50.0,Mendoza,avícola,3.0,4.0
+Mendoza,50.0,Mendoza,berries,3.0,5.0
+Mendoza,50.0,Mendoza,bovina,1.0,6.0
+Mendoza,50.0,Mendoza,caña de azucar,0.0,7.0
+Mendoza,50.0,Mendoza,caprino,13.0,8.0
+Mendoza,50.0,Mendoza,cebada,0.0,9.0
+Mendoza,50.0,Mendoza,cítricos,0.0,10.0
+Mendoza,50.0,Mendoza,colza,0.0,11.0
+Mendoza,50.0,Mendoza,forestal,1.0,12.0
+Mendoza,50.0,Mendoza,láctea,0.0,13.0
+Mendoza,50.0,Mendoza,limón,0.0,14.0
+Mendoza,50.0,Mendoza,maíz,0.0,15.0
+Mendoza,50.0,Mendoza,mani,0.0,16.0
+Mendoza,50.0,Mendoza,miel,0.0,17.0
+Mendoza,50.0,Mendoza,olivo,18.0,18.0
+Mendoza,50.0,Mendoza,ovino,1.0,19.0
+Mendoza,50.0,Mendoza,papa,5.0,20.0
+Mendoza,50.0,Mendoza,peras y manzanas,9.0,21.0
+Mendoza,50.0,Mendoza,porcino,0.0,22.0
+Mendoza,50.0,Mendoza,soja,0.0,23.0
+Mendoza,50.0,Mendoza,sorgo,0.0,24.0
+Mendoza,50.0,Mendoza,tabaco,0.0,25.0
+Mendoza,50.0,Mendoza,té,0.0,26.0
+Mendoza,50.0,Mendoza,tomate,34.0,27.0
+Mendoza,50.0,Mendoza,trigo,0.0,28.0
+Mendoza,50.0,Mendoza,uva,66.0,29.0
+Mendoza,50.0,Mendoza,yerba mate,0.0,30.0
+Mendoza,50.0,Mendoza,girasol,0.0,31.0
+Entre Ríoss,30.0,Entre Rios,ajo,0.0,1.0
+Entre Ríoss,30.0,Entre Rios,algodón,0.0,2.0
+Entre Ríoss,30.0,Entre Rios,arroz,50.0,3.0
+Entre Ríoss,30.0,Entre Rios,avícola,40.0,4.0
+Entre Ríoss,30.0,Entre Rios,berries,17.0,5.0
+Entre Ríoss,30.0,Entre Rios,bovina,6.0,6.0
+Entre Ríoss,30.0,Entre Rios,caña de azucar,0.0,7.0
+Entre Ríoss,30.0,Entre Rios,caprino,0.0,8.0
+Entre Ríoss,30.0,Entre Rios,cebada,0.0,9.0
+Entre Ríoss,30.0,Entre Rios,cítricos,46.0,10.0
+Entre Ríoss,30.0,Entre Rios,colza,19.0,11.0
+Entre Ríoss,30.0,Entre Rios,forestal,20.0,12.0
+Entre Ríoss,30.0,Entre Rios,láctea,3.0,13.0
+Entre Ríoss,30.0,Entre Rios,limón,1.0,14.0
+Entre Ríoss,30.0,Entre Rios,maíz,4.0,15.0
+Entre Ríoss,30.0,Entre Rios,mani,0.0,16.0
+Entre Ríoss,30.0,Entre Rios,miel,6.0,17.0
+Entre Ríoss,30.0,Entre Rios,olivo,0.0,18.0
+Entre Ríoss,30.0,Entre Rios,ovino,3.0,19.0
+Entre Ríoss,30.0,Entre Rios,papa,0.0,20.0
+Entre Ríoss,30.0,Entre Rios,peras y manzanas,0.0,21.0
+Entre Ríoss,30.0,Entre Rios,porcino,1.0,22.0
+Entre Ríoss,30.0,Entre Rios,soja,4.0,23.0
+Entre Ríoss,30.0,Entre Rios,sorgo,19.0,24.0
+Entre Ríoss,30.0,Entre Rios,tabaco,0.0,25.0
+Entre Ríoss,30.0,Entre Rios,té,0.0,26.0
+Entre Ríoss,30.0,Entre Rios,tomate,0.0,27.0
+Entre Ríoss,30.0,Entre Rios,trigo,5.0,28.0
+Entre Ríoss,30.0,Entre Rios,uva,0.0,29.0
+Entre Ríoss,30.0,Entre Rios,yerba mate,0.0,30.0
+Entre Ríoss,30.0,Entre Rios,girasol,1.0,31.0
+San Juan,70.0,San Juan,ajo,17.0,1.0
+San Juan,70.0,San Juan,algodón,0.0,2.0
+San Juan,70.0,San Juan,arroz,0.0,3.0
+San Juan,70.0,San Juan,avícola,1.0,4.0
+San Juan,70.0,San Juan,berries,0.0,5.0
+San Juan,70.0,San Juan,bovina,0.0,6.0
+San Juan,70.0,San Juan,caña de azucar,0.0,7.0
+San Juan,70.0,San Juan,caprino,0.0,8.0
+San Juan,70.0,San Juan,cebada,0.0,9.0
+San Juan,70.0,San Juan,cítricos,0.0,10.0
+San Juan,70.0,San Juan,colza,0.0,11.0
+San Juan,70.0,San Juan,forestal,0.0,12.0
+San Juan,70.0,San Juan,láctea,0.0,13.0
+San Juan,70.0,San Juan,limón,0.0,14.0
+San Juan,70.0,San Juan,maíz,0.0,15.0
+San Juan,70.0,San Juan,mani,0.0,16.0
+San Juan,70.0,San Juan,miel,0.0,17.0
+San Juan,70.0,San Juan,olivo,14.0,18.0
+San Juan,70.0,San Juan,ovino,0.0,19.0
+San Juan,70.0,San Juan,papa,0.0,20.0
+San Juan,70.0,San Juan,peras y manzanas,0.0,21.0
+San Juan,70.0,San Juan,porcino,0.0,22.0
+San Juan,70.0,San Juan,soja,0.0,23.0
+San Juan,70.0,San Juan,sorgo,0.0,24.0
+San Juan,70.0,San Juan,tabaco,0.0,25.0
+San Juan,70.0,San Juan,té,0.0,26.0
+San Juan,70.0,San Juan,tomate,26.0,27.0
+San Juan,70.0,San Juan,trigo,0.0,28.0
+San Juan,70.0,San Juan,uva,26.0,29.0
+San Juan,70.0,San Juan,yerba mate,0.0,30.0
+San Juan,70.0,San Juan,girasol,0.0,31.0
+Jujuy,38.0,Jujuy,ajo,1.0,1.0
+Jujuy,38.0,Jujuy,algodón,0.0,2.0
+Jujuy,38.0,Jujuy,arroz,0.0,3.0
+Jujuy,38.0,Jujuy,avícola,0.0,4.0
+Jujuy,38.0,Jujuy,berries,0.0,5.0
+Jujuy,38.0,Jujuy,bovina,1.0,6.0
+Jujuy,38.0,Jujuy,caña de azucar,18.0,7.0
+Jujuy,38.0,Jujuy,caprino,1.0,8.0
+Jujuy,38.0,Jujuy,cebada,0.0,9.0
+Jujuy,38.0,Jujuy,cítricos,6.0,10.0
+Jujuy,38.0,Jujuy,colza,0.0,11.0
+Jujuy,38.0,Jujuy,forestal,5.0,12.0
+Jujuy,38.0,Jujuy,láctea,0.0,13.0
+Jujuy,38.0,Jujuy,limón,3.0,14.0
+Jujuy,38.0,Jujuy,maíz,0.0,15.0
+Jujuy,38.0,Jujuy,mani,0.0,16.0
+Jujuy,38.0,Jujuy,miel,0.0,17.0
+Jujuy,38.0,Jujuy,olivo,0.0,18.0
+Jujuy,38.0,Jujuy,ovino,2.0,19.0
+Jujuy,38.0,Jujuy,papa,1.0,20.0
+Jujuy,38.0,Jujuy,peras y manzanas,0.0,21.0
+Jujuy,38.0,Jujuy,porcino,0.0,22.0
+Jujuy,38.0,Jujuy,soja,0.0,23.0
+Jujuy,38.0,Jujuy,sorgo,0.0,24.0
+Jujuy,38.0,Jujuy,tabaco,25.0,25.0
+Jujuy,38.0,Jujuy,té,0.0,26.0
+Jujuy,38.0,Jujuy,tomate,4.0,27.0
+Jujuy,38.0,Jujuy,trigo,0.0,28.0
+Jujuy,38.0,Jujuy,uva,0.0,29.0
+Jujuy,38.0,Jujuy,yerba mate,0.0,30.0
+Jujuy,38.0,Jujuy,girasol,0.0,31.0
+Santiago del Estero,86.0,Santiago Del Estero,ajo,0.0,1.0
+Santiago del Estero,86.0,Santiago Del Estero,algodón,29.0,2.0
+Santiago del Estero,86.0,Santiago Del Estero,arroz,0.0,3.0
+Santiago del Estero,86.0,Santiago Del Estero,avícola,0.0,4.0
+Santiago del Estero,86.0,Santiago Del Estero,berries,0.0,5.0
+Santiago del Estero,86.0,Santiago Del Estero,bovina,2.0,6.0
+Santiago del Estero,86.0,Santiago Del Estero,caña de azucar,0.0,7.0
+Santiago del Estero,86.0,Santiago Del Estero,caprino,15.0,8.0
+Santiago del Estero,86.0,Santiago Del Estero,cebada,0.0,9.0
+Santiago del Estero,86.0,Santiago Del Estero,cítricos,0.0,10.0
+Santiago del Estero,86.0,Santiago Del Estero,colza,0.0,11.0
+Santiago del Estero,86.0,Santiago Del Estero,forestal,1.0,12.0
+Santiago del Estero,86.0,Santiago Del Estero,láctea,0.0,13.0
+Santiago del Estero,86.0,Santiago Del Estero,limón,0.0,14.0
+Santiago del Estero,86.0,Santiago Del Estero,maíz,6.0,15.0
+Santiago del Estero,86.0,Santiago Del Estero,mani,0.0,16.0
+Santiago del Estero,86.0,Santiago Del Estero,miel,5.0,17.0
+Santiago del Estero,86.0,Santiago Del Estero,olivo,0.0,18.0
+Santiago del Estero,86.0,Santiago Del Estero,ovino,1.0,19.0
+Santiago del Estero,86.0,Santiago Del Estero,papa,0.0,20.0
+Santiago del Estero,86.0,Santiago Del Estero,peras y manzanas,0.0,21.0
+Santiago del Estero,86.0,Santiago Del Estero,porcino,0.0,22.0
+Santiago del Estero,86.0,Santiago Del Estero,soja,5.0,23.0
+Santiago del Estero,86.0,Santiago Del Estero,sorgo,9.0,24.0
+Santiago del Estero,86.0,Santiago Del Estero,tabaco,0.0,25.0
+Santiago del Estero,86.0,Santiago Del Estero,té,0.0,26.0
+Santiago del Estero,86.0,Santiago Del Estero,tomate,2.0,27.0
+Santiago del Estero,86.0,Santiago Del Estero,trigo,3.0,28.0
+Santiago del Estero,86.0,Santiago Del Estero,uva,0.0,29.0
+Santiago del Estero,86.0,Santiago Del Estero,yerba mate,0.0,30.0
+Santiago del Estero,86.0,Santiago Del Estero,girasol,1.0,31.0
+Río Negro,62.0,Rio Negro,ajo,1.0,1.0
+Río Negro,62.0,Rio Negro,algodón,0.0,2.0
+Río Negro,62.0,Rio Negro,arroz,0.0,3.0
+Río Negro,62.0,Rio Negro,avícola,2.0,4.0
+Río Negro,62.0,Rio Negro,berries,0.0,5.0
+Río Negro,62.0,Rio Negro,bovina,1.0,6.0
+Río Negro,62.0,Rio Negro,caña de azucar,0.0,7.0
+Río Negro,62.0,Rio Negro,caprino,0.0,8.0
+Río Negro,62.0,Rio Negro,cebada,0.0,9.0
+Río Negro,62.0,Rio Negro,cítricos,0.0,10.0
+Río Negro,62.0,Rio Negro,colza,0.0,11.0
+Río Negro,62.0,Rio Negro,forestal,0.0,12.0
+Río Negro,62.0,Rio Negro,láctea,0.0,13.0
+Río Negro,62.0,Rio Negro,limón,0.0,14.0
+Río Negro,62.0,Rio Negro,maíz,0.0,15.0
+Río Negro,62.0,Rio Negro,mani,0.0,16.0
+Río Negro,62.0,Rio Negro,miel,2.0,17.0
+Río Negro,62.0,Rio Negro,olivo,0.0,18.0
+Río Negro,62.0,Rio Negro,ovino,8.0,19.0
+Río Negro,62.0,Rio Negro,papa,1.0,20.0
+Río Negro,62.0,Rio Negro,peras y manzanas,74.0,21.0
+Río Negro,62.0,Rio Negro,porcino,0.0,22.0
+Río Negro,62.0,Rio Negro,soja,0.0,23.0
+Río Negro,62.0,Rio Negro,sorgo,0.0,24.0
+Río Negro,62.0,Rio Negro,tabaco,0.0,25.0
+Río Negro,62.0,Rio Negro,té,0.0,26.0
+Río Negro,62.0,Rio Negro,tomate,12.0,27.0
+Río Negro,62.0,Rio Negro,trigo,0.0,28.0
+Río Negro,62.0,Rio Negro,uva,0.0,29.0
+Río Negro,62.0,Rio Negro,yerba mate,0.0,30.0
+Río Negro,62.0,Rio Negro,girasol,0.0,31.0
+Corrientes,18.0,Corrientes,ajo,0.0,1.0
+Corrientes,18.0,Corrientes,algodón,2.0,2.0
+Corrientes,18.0,Corrientes,arroz,32.0,3.0
+Corrientes,18.0,Corrientes,avícola,0.0,4.0
+Corrientes,18.0,Corrientes,berries,1.0,5.0
+Corrientes,18.0,Corrientes,bovina,5.0,6.0
+Corrientes,18.0,Corrientes,caña de azucar,0.0,7.0
+Corrientes,18.0,Corrientes,caprino,0.0,8.0
+Corrientes,18.0,Corrientes,cebada,0.0,9.0
+Corrientes,18.0,Corrientes,cítricos,24.0,10.0
+Corrientes,18.0,Corrientes,colza,0.0,11.0
+Corrientes,18.0,Corrientes,forestal,4.0,12.0
+Corrientes,18.0,Corrientes,láctea,0.0,13.0
+Corrientes,18.0,Corrientes,limón,4.0,14.0
+Corrientes,18.0,Corrientes,maíz,0.0,15.0
+Corrientes,18.0,Corrientes,mani,0.0,16.0
+Corrientes,18.0,Corrientes,miel,1.0,17.0
+Corrientes,18.0,Corrientes,olivo,0.0,18.0
+Corrientes,18.0,Corrientes,ovino,14.0,19.0
+Corrientes,18.0,Corrientes,papa,0.0,20.0
+Corrientes,18.0,Corrientes,peras y manzanas,0.0,21.0
+Corrientes,18.0,Corrientes,porcino,0.0,22.0
+Corrientes,18.0,Corrientes,soja,0.0,23.0
+Corrientes,18.0,Corrientes,sorgo,0.0,24.0
+Corrientes,18.0,Corrientes,tabaco,1.0,25.0
+Corrientes,18.0,Corrientes,té,6.0,26.0
+Corrientes,18.0,Corrientes,tomate,0.0,27.0
+Corrientes,18.0,Corrientes,trigo,0.0,28.0
+Corrientes,18.0,Corrientes,uva,0.0,29.0
+Corrientes,18.0,Corrientes,yerba mate,14.0,30.0
+Corrientes,18.0,Corrientes,girasol,0.0,31.0
+Misiones,54.0,Misiones,ajo,0.0,1.0
+Misiones,54.0,Misiones,algodón,0.0,2.0
+Misiones,54.0,Misiones,arroz,0.0,3.0
+Misiones,54.0,Misiones,avícola,0.0,4.0
+Misiones,54.0,Misiones,berries,0.0,5.0
+Misiones,54.0,Misiones,bovina,0.0,6.0
+Misiones,54.0,Misiones,caña de azucar,0.0,7.0
+Misiones,54.0,Misiones,caprino,0.0,8.0
+Misiones,54.0,Misiones,cebada,0.0,9.0
+Misiones,54.0,Misiones,cítricos,6.0,10.0
+Misiones,54.0,Misiones,colza,0.0,11.0
+Misiones,54.0,Misiones,forestal,33.0,12.0
+Misiones,54.0,Misiones,láctea,0.0,13.0
+Misiones,54.0,Misiones,limón,1.0,14.0
+Misiones,54.0,Misiones,maíz,0.0,15.0
+Misiones,54.0,Misiones,mani,0.0,16.0
+Misiones,54.0,Misiones,miel,0.0,17.0
+Misiones,54.0,Misiones,olivo,0.0,18.0
+Misiones,54.0,Misiones,ovino,0.0,19.0
+Misiones,54.0,Misiones,papa,0.0,20.0
+Misiones,54.0,Misiones,peras y manzanas,0.0,21.0
+Misiones,54.0,Misiones,porcino,0.0,22.0
+Misiones,54.0,Misiones,soja,0.0,23.0
+Misiones,54.0,Misiones,sorgo,0.0,24.0
+Misiones,54.0,Misiones,tabaco,20.0,25.0
+Misiones,54.0,Misiones,té,91.0,26.0
+Misiones,54.0,Misiones,tomate,0.0,27.0
+Misiones,54.0,Misiones,trigo,0.0,28.0
+Misiones,54.0,Misiones,uva,0.0,29.0
+Misiones,54.0,Misiones,yerba mate,85.0,30.0
+Misiones,54.0,Misiones,girasol,0.0,31.0
+Salta,66.0,Salta,ajo,0.0,1.0
+Salta,66.0,Salta,algodón,3.0,2.0
+Salta,66.0,Salta,arroz,0.0,3.0
+Salta,66.0,Salta,avícola,1.0,4.0
+Salta,66.0,Salta,berries,0.0,5.0
+Salta,66.0,Salta,bovina,2.0,6.0
+Salta,66.0,Salta,caña de azucar,10.0,7.0
+Salta,66.0,Salta,caprino,2.0,8.0
+Salta,66.0,Salta,cebada,0.0,9.0
+Salta,66.0,Salta,cítricos,7.0,10.0
+Salta,66.0,Salta,colza,0.0,11.0
+Salta,66.0,Salta,forestal,0.0,12.0
+Salta,66.0,Salta,láctea,0.0,13.0
+Salta,66.0,Salta,limón,12.0,14.0
+Salta,66.0,Salta,maíz,3.0,15.0
+Salta,66.0,Salta,mani,0.0,16.0
+Salta,66.0,Salta,miel,3.0,17.0
+Salta,66.0,Salta,olivo,0.0,18.0
+Salta,66.0,Salta,ovino,1.0,19.0
+Salta,66.0,Salta,papa,1.0,20.0
+Salta,66.0,Salta,peras y manzanas,0.0,21.0
+Salta,66.0,Salta,porcino,1.0,22.0
+Salta,66.0,Salta,soja,2.0,23.0
+Salta,66.0,Salta,sorgo,0.0,24.0
+Salta,66.0,Salta,tabaco,18.0,25.0
+Salta,66.0,Salta,té,0.0,26.0
+Salta,66.0,Salta,tomate,4.0,27.0
+Salta,66.0,Salta,trigo,1.0,28.0
+Salta,66.0,Salta,uva,1.0,29.0
+Salta,66.0,Salta,yerba mate,0.0,30.0
+Salta,66.0,Salta,girasol,0.0,31.0
+Córdoba,14.0,Cordoba,ajo,2.0,1.0
+Córdoba,14.0,Cordoba,algodón,1.0,2.0
+Córdoba,14.0,Cordoba,arroz,0.0,3.0
+Córdoba,14.0,Cordoba,avícola,4.0,4.0
+Córdoba,14.0,Cordoba,berries,0.0,5.0
+Córdoba,14.0,Cordoba,bovina,9.0,6.0
+Córdoba,14.0,Cordoba,caña de azucar,0.0,7.0
+Córdoba,14.0,Cordoba,caprino,36.0,8.0
+Córdoba,14.0,Cordoba,cebada,0.0,9.0
+Córdoba,14.0,Cordoba,cítricos,0.0,10.0
+Córdoba,14.0,Cordoba,colza,1.0,11.0
+Córdoba,14.0,Cordoba,forestal,1.0,12.0
+Córdoba,14.0,Cordoba,láctea,30.0,13.0
+Córdoba,14.0,Cordoba,limón,0.0,14.0
+Córdoba,14.0,Cordoba,maíz,33.0,15.0
+Córdoba,14.0,Cordoba,mani,83.0,16.0
+Córdoba,14.0,Cordoba,miel,28.0,17.0
+Córdoba,14.0,Cordoba,olivo,10.0,18.0
+Córdoba,14.0,Cordoba,ovino,2.0,19.0
+Córdoba,14.0,Cordoba,papa,42.0,20.0
+Córdoba,14.0,Cordoba,peras y manzanas,0.0,21.0
+Córdoba,14.0,Cordoba,porcino,15.0,22.0
+Córdoba,14.0,Cordoba,soja,24.0,23.0
+Córdoba,14.0,Cordoba,sorgo,14.0,24.0
+Córdoba,14.0,Cordoba,tabaco,0.0,25.0
+Córdoba,14.0,Cordoba,té,0.0,26.0
+Córdoba,14.0,Cordoba,tomate,2.0,27.0
+Córdoba,14.0,Cordoba,trigo,21.0,28.0
+Córdoba,14.0,Cordoba,uva,0.0,29.0
+Córdoba,14.0,Cordoba,yerba mate,0.0,30.0
+Córdoba,14.0,Cordoba,girasol,3.0,31.0
+Buenos Aires,6.0,Buenos Aires,ajo,3.0,1.0
+Buenos Aires,6.0,Buenos Aires,algodón,5.0,2.0
+Buenos Aires,6.0,Buenos Aires,arroz,5.0,3.0
+Buenos Aires,6.0,Buenos Aires,avícola,40.0,4.0
+Buenos Aires,6.0,Buenos Aires,berries,30.0,5.0
+Buenos Aires,6.0,Buenos Aires,bovina,43.0,6.0
+Buenos Aires,6.0,Buenos Aires,caña de azucar,1.0,7.0
+Buenos Aires,6.0,Buenos Aires,caprino,0.0,8.0
+Buenos Aires,6.0,Buenos Aires,cebada,51.0,9.0
+Buenos Aires,6.0,Buenos Aires,cítricos,3.0,10.0
+Buenos Aires,6.0,Buenos Aires,colza,73.0,11.0
+Buenos Aires,6.0,Buenos Aires,forestal,18.0,12.0
+Buenos Aires,6.0,Buenos Aires,láctea,33.0,13.0
+Buenos Aires,6.0,Buenos Aires,limón,2.0,14.0
+Buenos Aires,6.0,Buenos Aires,maíz,31.0,15.0
+Buenos Aires,6.0,Buenos Aires,mani,6.0,16.0
+Buenos Aires,6.0,Buenos Aires,miel,31.0,17.0
+Buenos Aires,6.0,Buenos Aires,olivo,7.0,18.0
+Buenos Aires,6.0,Buenos Aires,ovino,14.0,19.0
+Buenos Aires,6.0,Buenos Aires,papa,43.0,20.0
+Buenos Aires,6.0,Buenos Aires,peras y manzanas,1.0,21.0
+Buenos Aires,6.0,Buenos Aires,porcino,53.0,22.0
+Buenos Aires,6.0,Buenos Aires,soja,28.0,23.0
+Buenos Aires,6.0,Buenos Aires,sorgo,21.0,24.0
+Buenos Aires,6.0,Buenos Aires,tabaco,31.0,25.0
+Buenos Aires,6.0,Buenos Aires,té,3.0,26.0
+Buenos Aires,6.0,Buenos Aires,tomate,5.0,27.0
+Buenos Aires,6.0,Buenos Aires,trigo,48.0,28.0
+Buenos Aires,6.0,Buenos Aires,uva,2.0,29.0
+Buenos Aires,6.0,Buenos Aires,yerba mate,1.0,30.0
+Buenos Aires,6.0,Buenos Aires,girasol,60.0,31.0
+La Pampa,42.0,La Pampa,ajo,0.0,1.0
+La Pampa,42.0,La Pampa,algodón,0.0,2.0
+La Pampa,42.0,La Pampa,arroz,0.0,3.0
+La Pampa,42.0,La Pampa,avícola,0.0,4.0
+La Pampa,42.0,La Pampa,berries,0.0,5.0
+La Pampa,42.0,La Pampa,bovina,5.0,6.0
+La Pampa,42.0,La Pampa,caña de azucar,0.0,7.0
+La Pampa,42.0,La Pampa,caprino,0.0,8.0
+La Pampa,42.0,La Pampa,cebada,1.0,9.0
+La Pampa,42.0,La Pampa,cítricos,0.0,10.0
+La Pampa,42.0,La Pampa,colza,2.0,11.0
+La Pampa,42.0,La Pampa,forestal,0.0,12.0
+La Pampa,42.0,La Pampa,láctea,1.0,13.0
+La Pampa,42.0,La Pampa,limón,0.0,14.0
+La Pampa,42.0,La Pampa,maíz,3.0,15.0
+La Pampa,42.0,La Pampa,mani,3.0,16.0
+La Pampa,42.0,La Pampa,miel,3.0,17.0
+La Pampa,42.0,La Pampa,olivo,0.0,18.0
+La Pampa,42.0,La Pampa,ovino,2.0,19.0
+La Pampa,42.0,La Pampa,papa,0.0,20.0
+La Pampa,42.0,La Pampa,peras y manzanas,0.0,21.0
+La Pampa,42.0,La Pampa,porcino,1.0,22.0
+La Pampa,42.0,La Pampa,soja,3.0,23.0
+La Pampa,42.0,La Pampa,sorgo,4.0,24.0
+La Pampa,42.0,La Pampa,tabaco,0.0,25.0
+La Pampa,42.0,La Pampa,té,0.0,26.0
+La Pampa,42.0,La Pampa,tomate,0.0,27.0
+La Pampa,42.0,La Pampa,trigo,3.0,28.0
+La Pampa,42.0,La Pampa,uva,0.0,29.0
+La Pampa,42.0,La Pampa,yerba mate,0.0,30.0
+La Pampa,42.0,La Pampa,girasol,11.0,31.0
+La Rioja,46.0,La Rioja,ajo,0.0,1.0
+La Rioja,46.0,La Rioja,algodón,0.0,2.0
+La Rioja,46.0,La Rioja,arroz,0.0,3.0
+La Rioja,46.0,La Rioja,avícola,0.0,4.0
+La Rioja,46.0,La Rioja,berries,0.0,5.0
+La Rioja,46.0,La Rioja,bovina,0.0,6.0
+La Rioja,46.0,La Rioja,caña de azucar,0.0,7.0
+La Rioja,46.0,La Rioja,caprino,2.0,8.0
+La Rioja,46.0,La Rioja,cebada,0.0,9.0
+La Rioja,46.0,La Rioja,cítricos,0.0,10.0
+La Rioja,46.0,La Rioja,colza,0.0,11.0
+La Rioja,46.0,La Rioja,forestal,0.0,12.0
+La Rioja,46.0,La Rioja,láctea,0.0,13.0
+La Rioja,46.0,La Rioja,limón,0.0,14.0
+La Rioja,46.0,La Rioja,maíz,0.0,15.0
+La Rioja,46.0,La Rioja,mani,0.0,16.0
+La Rioja,46.0,La Rioja,miel,0.0,17.0
+La Rioja,46.0,La Rioja,olivo,25.0,18.0
+La Rioja,46.0,La Rioja,ovino,0.0,19.0
+La Rioja,46.0,La Rioja,papa,0.0,20.0
+La Rioja,46.0,La Rioja,peras y manzanas,0.0,21.0
+La Rioja,46.0,La Rioja,porcino,0.0,22.0
+La Rioja,46.0,La Rioja,soja,0.0,23.0
+La Rioja,46.0,La Rioja,sorgo,0.0,24.0
+La Rioja,46.0,La Rioja,tabaco,0.0,25.0
+La Rioja,46.0,La Rioja,té,0.0,26.0
+La Rioja,46.0,La Rioja,tomate,5.0,27.0
+La Rioja,46.0,La Rioja,trigo,0.0,28.0
+La Rioja,46.0,La Rioja,uva,3.0,29.0
+La Rioja,46.0,La Rioja,yerba mate,0.0,30.0
+La Rioja,46.0,La Rioja,girasol,0.0,31.0
+Catamarca,10.0,Catamarca,ajo,0.0,1.0
+Catamarca,10.0,Catamarca,algodón,0.0,2.0
+Catamarca,10.0,Catamarca,arroz,0.0,3.0
+Catamarca,10.0,Catamarca,avícola,0.0,4.0
+Catamarca,10.0,Catamarca,berries,0.0,5.0
+Catamarca,10.0,Catamarca,bovina,1.0,6.0
+Catamarca,10.0,Catamarca,caña de azucar,0.0,7.0
+Catamarca,10.0,Catamarca,caprino,2.0,8.0
+Catamarca,10.0,Catamarca,cebada,0.0,9.0
+Catamarca,10.0,Catamarca,cítricos,1.0,10.0
+Catamarca,10.0,Catamarca,colza,0.0,11.0
+Catamarca,10.0,Catamarca,forestal,1.0,12.0
+Catamarca,10.0,Catamarca,láctea,0.0,13.0
+Catamarca,10.0,Catamarca,limón,0.0,14.0
+Catamarca,10.0,Catamarca,maíz,0.0,15.0
+Catamarca,10.0,Catamarca,mani,0.0,16.0
+Catamarca,10.0,Catamarca,miel,1.0,17.0
+Catamarca,10.0,Catamarca,olivo,10.0,18.0
+Catamarca,10.0,Catamarca,ovino,0.0,19.0
+Catamarca,10.0,Catamarca,papa,0.0,20.0
+Catamarca,10.0,Catamarca,peras y manzanas,0.0,21.0
+Catamarca,10.0,Catamarca,porcino,0.0,22.0
+Catamarca,10.0,Catamarca,soja,0.0,23.0
+Catamarca,10.0,Catamarca,sorgo,0.0,24.0
+Catamarca,10.0,Catamarca,tabaco,1.0,25.0
+Catamarca,10.0,Catamarca,té,0.0,26.0
+Catamarca,10.0,Catamarca,tomate,1.0,27.0
+Catamarca,10.0,Catamarca,trigo,0.0,28.0
+Catamarca,10.0,Catamarca,uva,0.0,29.0
+Catamarca,10.0,Catamarca,yerba mate,0.0,30.0
+Catamarca,10.0,Catamarca,girasol,0.0,31.0
+Tucumán,90.0,Tucuman,ajo,0.0,1.0
+Tucumán,90.0,Tucuman,algodón,0.0,2.0
+Tucumán,90.0,Tucuman,arroz,0.0,3.0
+Tucumán,90.0,Tucuman,avícola,1.0,4.0
+Tucumán,90.0,Tucuman,berries,38.0,5.0
+Tucumán,90.0,Tucuman,bovina,1.0,6.0
+Tucumán,90.0,Tucuman,caña de azucar,70.0,7.0
+Tucumán,90.0,Tucuman,caprino,0.0,8.0
+Tucumán,90.0,Tucuman,cebada,0.0,9.0
+Tucumán,90.0,Tucuman,cítricos,2.0,10.0
+Tucumán,90.0,Tucuman,colza,0.0,11.0
+Tucumán,90.0,Tucuman,forestal,2.0,12.0
+Tucumán,90.0,Tucuman,láctea,0.0,13.0
+Tucumán,90.0,Tucuman,limón,76.0,14.0
+Tucumán,90.0,Tucuman,maíz,1.0,15.0
+Tucumán,90.0,Tucuman,mani,0.0,16.0
+Tucumán,90.0,Tucuman,miel,0.0,17.0
+Tucumán,90.0,Tucuman,olivo,0.0,18.0
+Tucumán,90.0,Tucuman,ovino,0.0,19.0
+Tucumán,90.0,Tucuman,papa,6.0,20.0
+Tucumán,90.0,Tucuman,peras y manzanas,0.0,21.0
+Tucumán,90.0,Tucuman,porcino,0.0,22.0
+Tucumán,90.0,Tucuman,soja,1.0,23.0
+Tucumán,90.0,Tucuman,sorgo,0.0,24.0
+Tucumán,90.0,Tucuman,tabaco,5.0,25.0
+Tucumán,90.0,Tucuman,té,0.0,26.0
+Tucumán,90.0,Tucuman,tomate,2.0,27.0
+Tucumán,90.0,Tucuman,trigo,2.0,28.0
+Tucumán,90.0,Tucuman,uva,0.0,29.0
+Tucumán,90.0,Tucuman,yerba mate,0.0,30.0
+Tucumán,90.0,Tucuman,girasol,0.0,31.0
+Chaco,22.0,Chaco,ajo,0.0,1.0
+Chaco,22.0,Chaco,algodón,44.0,2.0
+Chaco,22.0,Chaco,arroz,1.0,3.0
+Chaco,22.0,Chaco,avícola,0.0,4.0
+Chaco,22.0,Chaco,berries,1.0,5.0
+Chaco,22.0,Chaco,bovina,3.0,6.0
+Chaco,22.0,Chaco,caña de azucar,0.0,7.0
+Chaco,22.0,Chaco,caprino,2.0,8.0
+Chaco,22.0,Chaco,cebada,0.0,9.0
+Chaco,22.0,Chaco,cítricos,1.0,10.0
+Chaco,22.0,Chaco,colza,0.0,11.0
+Chaco,22.0,Chaco,forestal,6.0,12.0
+Chaco,22.0,Chaco,láctea,0.0,13.0
+Chaco,22.0,Chaco,limón,0.0,14.0
+Chaco,22.0,Chaco,maíz,3.0,15.0
+Chaco,22.0,Chaco,mani,0.0,16.0
+Chaco,22.0,Chaco,miel,2.0,17.0
+Chaco,22.0,Chaco,olivo,0.0,18.0
+Chaco,22.0,Chaco,ovino,1.0,19.0
+Chaco,22.0,Chaco,papa,0.0,20.0
+Chaco,22.0,Chaco,peras y manzanas,0.0,21.0
+Chaco,22.0,Chaco,porcino,1.0,22.0
+Chaco,22.0,Chaco,soja,2.0,23.0
+Chaco,22.0,Chaco,sorgo,10.0,24.0
+Chaco,22.0,Chaco,tabaco,0.0,25.0
+Chaco,22.0,Chaco,té,0.0,26.0
+Chaco,22.0,Chaco,tomate,0.0,27.0
+Chaco,22.0,Chaco,trigo,1.0,28.0
+Chaco,22.0,Chaco,uva,0.0,29.0
+Chaco,22.0,Chaco,yerba mate,0.0,30.0
+Chaco,22.0,Chaco,girasol,17.0,31.0
+Formosa,34.0,Formosa,ajo,0.0,1.0
+Formosa,34.0,Formosa,algodón,3.0,2.0
+Formosa,34.0,Formosa,arroz,1.0,3.0
+Formosa,34.0,Formosa,avícola,0.0,4.0
+Formosa,34.0,Formosa,berries,0.0,5.0
+Formosa,34.0,Formosa,bovina,2.0,6.0
+Formosa,34.0,Formosa,caña de azucar,0.0,7.0
+Formosa,34.0,Formosa,caprino,1.0,8.0
+Formosa,34.0,Formosa,cebada,0.0,9.0
+Formosa,34.0,Formosa,cítricos,2.0,10.0
+Formosa,34.0,Formosa,colza,0.0,11.0
+Formosa,34.0,Formosa,forestal,0.0,12.0
+Formosa,34.0,Formosa,láctea,0.0,13.0
+Formosa,34.0,Formosa,limón,0.0,14.0
+Formosa,34.0,Formosa,maíz,1.0,15.0
+Formosa,34.0,Formosa,mani,0.0,16.0
+Formosa,34.0,Formosa,miel,0.0,17.0
+Formosa,34.0,Formosa,olivo,0.0,18.0
+Formosa,34.0,Formosa,ovino,1.0,19.0
+Formosa,34.0,Formosa,papa,0.0,20.0
+Formosa,34.0,Formosa,peras y manzanas,0.0,21.0
+Formosa,34.0,Formosa,porcino,1.0,22.0
+Formosa,34.0,Formosa,soja,0.0,23.0
+Formosa,34.0,Formosa,sorgo,5.0,24.0
+Formosa,34.0,Formosa,tabaco,0.0,25.0
+Formosa,34.0,Formosa,té,0.0,26.0
+Formosa,34.0,Formosa,tomate,0.0,27.0
+Formosa,34.0,Formosa,trigo,0.0,28.0
+Formosa,34.0,Formosa,uva,0.0,29.0
+Formosa,34.0,Formosa,yerba mate,0.0,30.0
+Formosa,34.0,Formosa,girasol,0.0,31.0
+Santa Cruz,78.0,Santa Cruz,ajo,1.0,1.0
+Santa Cruz,78.0,Santa Cruz,algodón,0.0,2.0
+Santa Cruz,78.0,Santa Cruz,arroz,0.0,3.0
+Santa Cruz,78.0,Santa Cruz,avícola,0.0,4.0
+Santa Cruz,78.0,Santa Cruz,berries,0.0,5.0
+Santa Cruz,78.0,Santa Cruz,bovina,0.0,6.0
+Santa Cruz,78.0,Santa Cruz,caña de azucar,0.0,7.0
+Santa Cruz,78.0,Santa Cruz,caprino,0.0,8.0
+Santa Cruz,78.0,Santa Cruz,cebada,0.0,9.0
+Santa Cruz,78.0,Santa Cruz,cítricos,0.0,10.0
+Santa Cruz,78.0,Santa Cruz,colza,0.0,11.0
+Santa Cruz,78.0,Santa Cruz,forestal,0.0,12.0
+Santa Cruz,78.0,Santa Cruz,láctea,0.0,13.0
+Santa Cruz,78.0,Santa Cruz,limón,0.0,14.0
+Santa Cruz,78.0,Santa Cruz,maíz,0.0,15.0
+Santa Cruz,78.0,Santa Cruz,mani,0.0,16.0
+Santa Cruz,78.0,Santa Cruz,miel,0.0,17.0
+Santa Cruz,78.0,Santa Cruz,olivo,0.0,18.0
+Santa Cruz,78.0,Santa Cruz,ovino,23.0,19.0
+Santa Cruz,78.0,Santa Cruz,papa,0.0,20.0
+Santa Cruz,78.0,Santa Cruz,peras y manzanas,0.0,21.0
+Santa Cruz,78.0,Santa Cruz,porcino,0.0,22.0
+Santa Cruz,78.0,Santa Cruz,soja,0.0,23.0
+Santa Cruz,78.0,Santa Cruz,sorgo,0.0,24.0
+Santa Cruz,78.0,Santa Cruz,tabaco,0.0,25.0
+Santa Cruz,78.0,Santa Cruz,té,0.0,26.0
+Santa Cruz,78.0,Santa Cruz,tomate,0.0,27.0
+Santa Cruz,78.0,Santa Cruz,trigo,0.0,28.0
+Santa Cruz,78.0,Santa Cruz,uva,0.0,29.0
+Santa Cruz,78.0,Santa Cruz,yerba mate,0.0,30.0
+Santa Cruz,78.0,Santa Cruz,girasol,0.0,31.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,ajo,0.0,1.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,algodón,0.0,2.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,arroz,0.0,3.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,avícola,0.0,4.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,berries,0.0,5.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,bovina,0.0,6.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,caña de azucar,0.0,7.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,caprino,0.0,8.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,cebada,0.0,9.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,cítricos,0.0,10.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,colza,0.0,11.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,forestal,0.0,12.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,láctea,0.0,13.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,limón,0.0,14.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,maíz,0.0,15.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,mani,0.0,16.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,miel,0.0,17.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,olivo,0.0,18.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,ovino,3.0,19.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,papa,0.0,20.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,peras y manzanas,0.0,21.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,porcino,0.0,22.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,soja,0.0,23.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,sorgo,0.0,24.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,tabaco,0.0,25.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,té,0.0,26.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,tomate,0.0,27.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,trigo,0.0,28.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,uva,0.0,29.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,yerba mate,0.0,30.0
+Tierra Del Fuego,94.0,Tierra Del Fuego,girasol,0.0,31.0
